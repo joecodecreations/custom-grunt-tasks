@@ -7,7 +7,9 @@ This will allow you to call custom grunt tasks in the order you specify and from
 
 2. Run `grunt custom:task1,task2,task3` in your console. Where task1 task2 and task3 represent where you will add in your own task names. 
 ### Requirements:
+
 * At least one grunt task to be used
+
 * Referenced tasks have to be already created
 
 ### Success Outputs 
